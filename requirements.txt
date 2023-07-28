@@ -1,0 +1,6 @@
+pypng
+Flask
+pillow
+pyqrcode
+pyperclip
+pytesseract
